@@ -1,3 +1,3 @@
 # RPN-Shuntin_Yard-Calculator
 Program to simulate a calculator using Reverse Polish Notion and Postfix Notation.
-Program implement concepts regarding data structures in C++
+Program implements concepts regarding data structures, strings, and basic Lambda Expressions in C++
